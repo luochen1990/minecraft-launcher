@@ -1,0 +1,34 @@
+{
+  "server": {
+    "game": {
+      "version": "1.18.2"
+    }
+  },
+  "mods": [
+    "https://modrinth.com/mod/fabric-api",
+    "https://modrinth.com/mod/plasmo-voice",
+    "https://modrinth.com/mod/cc-restitched",
+    "https://modrinth.com/mod/lithium",
+    "https://modrinth.com/mod/sodium",
+    {
+      "name": "Reese's Sodium Options",
+      "modrinthId": "reeses-sodium-options",
+      "primaryFileOnly": true
+    },
+    {
+      "name": "Sodium Extra",
+      "modrinthId": "sodium-extra",
+      "primaryFileOnly": true
+    },
+    {
+      "name": "Xaero's Minimap",
+      "curseForgeId": "263420",
+      "versionTypeRegex": "release|beta"
+    },
+    {
+      "name": "Xaero's World Map",
+      "curseForgeId": "317780",
+      "versionTypeRegex": "release|beta"
+    }
+  ]
+}

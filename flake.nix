@@ -2,7 +2,7 @@
   inputs = {
     nixpkgs.url = "github:nixos/nixpkgs/nixos-unstable";
     flake-utils-plus.url = "github:gytis-ivaskevicius/flake-utils-plus";
-    mc-config.url = "github:luochen1990/minecraft-mods/feature-better-config";
+    mc-config.url = "github:luochen1990/minecraft-mods/dev";
     #mc-config.url = "github:linyinfeng/mc-config";
     #mc-config.url = "file+file:///mc-config";
     mc-config.inputs.nixpkgs.follows = "nixpkgs";
