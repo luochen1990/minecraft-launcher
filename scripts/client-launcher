@@ -2,8 +2,8 @@
 
 script_dir=$(realpath $(dirname "$0"))
 
-mkdir -p $script_dir/../archive
-cd $script_dir/../archive
+mkdir -p $script_dir/../client-archive
+cd $script_dir/../client-archive
 
 nix run ..#client-launcher
 
