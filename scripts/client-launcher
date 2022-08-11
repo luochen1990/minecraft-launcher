@@ -1,0 +1,9 @@
+#!/usr/bin/env sh
+
+script_dir=$(realpath $(dirname "$0"))
+
+mkdir -p $script_dir/../archive
+cd $script_dir/../archive
+
+nix run ..#client-launcher
+
