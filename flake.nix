@@ -27,9 +27,9 @@
           pkgs = channels.nixpkgs;
           system = pkgs.stdenv.hostPlatform.system;
           inherit (pkgs) lib;
-          contents = if builtins.pathExists ./config.json then
+          contents = if builtins.pathExists ./config.lock.json then
             mc-config.lib.mkLaunchers pkgs {
-              launcherConfig = lib.importJSON ./config.json;
+              launcherConfig = lib.importJSON ./config.lock.json;
             }
           else
             { };
