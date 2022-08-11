@@ -1,0 +1,6 @@
+#!/usr/bin/env sh
+
+#export CURSEFORGE_API_KEY='xxxx'
+
+nix run "github:luochen1990/minecraft-mods/dev#update" -- --config-input ./config.json --config-output ./config.lock.json
+
