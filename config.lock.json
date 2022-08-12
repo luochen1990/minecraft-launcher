@@ -76,8 +76,9 @@
       ]
     },
     {
-      "name": "Reese's Sodium Options",
+      "name": "modrinth:reeses-sodium-options",
       "modrinthId": "reeses-sodium-options",
+      "url": "https://modrinth.com/mod/reeses-sodium-options",
       "primaryFileOnly": true,
       "version": "mc1.18.2-1.4.5",
       "files": [
@@ -91,8 +92,9 @@
       ]
     },
     {
-      "name": "Sodium Extra",
+      "name": "modrinth:sodium-extra",
       "modrinthId": "sodium-extra",
+      "url": "https://modrinth.com/mod/sodium-extra",
       "primaryFileOnly": true,
       "version": "mc1.18.2-0.4.6",
       "files": [
@@ -107,7 +109,8 @@
     },
     {
       "name": "Xaero's Minimap",
-      "curseForgeId": "263420",
+      "curseForgeId": 263420,
+      "url": "https://www.curseforge.com/minecraft/mc-mods/xaeros-minimap",
       "versionTypeRegex": "release|beta",
       "version": "v22.13.0 for Fabric 1.18.2",
       "files": [
@@ -122,7 +125,8 @@
     },
     {
       "name": "Xaero's World Map",
-      "curseForgeId": "317780",
+      "curseForgeId": 317780,
+      "url": "https://www.curseforge.com/minecraft/mc-mods/xaeros-world-map",
       "versionTypeRegex": "release|beta",
       "version": "v1.26.2 for Fabric 1.18.2",
       "files": [

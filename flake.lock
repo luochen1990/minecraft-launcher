@@ -49,11 +49,11 @@
         ]
       },
       "locked": {
-        "lastModified": 1660235901,
-        "narHash": "sha256-XPWm0+GpZ+DdP7QiQSEctNKOZDLG+WW1tyOdsdm9vOc=",
+        "lastModified": 1660298580,
+        "narHash": "sha256-++nn1du+Ff3xGLKGyUqW/RGOR6vpCgGng0zf/no5DUo=",
         "owner": "luochen1990",
         "repo": "minecraft-mods",
-        "rev": "5641502cfe4b5995c2f62ff5198198ea80f98fad",
+        "rev": "06786a28774b8328db6aee608604044a5640bc25",
         "type": "github"
       },
       "original": {

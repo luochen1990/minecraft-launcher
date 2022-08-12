@@ -10,25 +10,9 @@
     "https://modrinth.com/mod/cc-restitched",
     "https://modrinth.com/mod/lithium",
     "https://modrinth.com/mod/sodium",
-    {
-      "name": "Reese's Sodium Options",
-      "modrinthId": "reeses-sodium-options",
-      "primaryFileOnly": true
-    },
-    {
-      "name": "Sodium Extra",
-      "modrinthId": "sodium-extra",
-      "primaryFileOnly": true
-    },
-    {
-      "name": "Xaero's Minimap",
-      "curseForgeId": "263420",
-      "versionTypeRegex": "release|beta"
-    },
-    {
-      "name": "Xaero's World Map",
-      "curseForgeId": "317780",
-      "versionTypeRegex": "release|beta"
-    }
+    { "url": "https://modrinth.com/mod/reeses-sodium-options", "primaryFileOnly": true },
+    { "url": "https://modrinth.com/mod/sodium-extra", "primaryFileOnly": true },
+    { "url": "https://www.curseforge.com/minecraft/mc-mods/xaeros-minimap", "versionTypeRegex": "release|beta" },
+    { "url": "https://www.curseforge.com/minecraft/mc-mods/xaeros-world-map", "versionTypeRegex": "release|beta" }
   ]
 }
