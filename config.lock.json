@@ -80,13 +80,13 @@
       "modrinthId": "reeses-sodium-options",
       "url": "https://modrinth.com/mod/reeses-sodium-options",
       "primaryFileOnly": true,
-      "version": "mc1.18.2-1.4.5",
+      "version": "mc1.18.2-1.4.6",
       "files": [
         {
-          "filename": "reeses_sodium_options-1.4.5+mc1.18.2-build.50.jar",
+          "filename": "reeses_sodium_options-1.4.6+mc1.18.2-build.54.jar",
           "file": {
-            "url": "https://cdn.modrinth.com/data/Bh37bMuy/versions/mc1.18.2-1.4.5/reeses_sodium_options-1.4.5%2Bmc1.18.2-build.50.jar",
-            "sha512": "91225e74438a2cac692d9de208e0eed9c238980be9a4440673e54683f6d07a79acb101b99714edc575ac22ed5ae1d4cac94c6975f49eecaa17aa0667811fbb72"
+            "url": "https://cdn.modrinth.com/data/Bh37bMuy/versions/mc1.18.2-1.4.6/reeses_sodium_options-1.4.6%2Bmc1.18.2-build.54.jar",
+            "sha512": "2f7dedd6975688108f9ba9de86b80dd29d7ceba1997bc718ed6aae9f986add9a714421f028e92469f461907515b04258372cd3888470c3ef0a09ff7f8e805162"
           }
         }
       ]

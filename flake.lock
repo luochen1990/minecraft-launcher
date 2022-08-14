@@ -49,11 +49,11 @@
         ]
       },
       "locked": {
-        "lastModified": 1660298580,
-        "narHash": "sha256-++nn1du+Ff3xGLKGyUqW/RGOR6vpCgGng0zf/no5DUo=",
+        "lastModified": 1660447429,
+        "narHash": "sha256-oTMv1INeDaqStfTIj7rEGbUxNl3GCJJtz9cSt3FWLsQ=",
         "owner": "luochen1990",
         "repo": "minecraft-mods",
-        "rev": "06786a28774b8328db6aee608604044a5640bc25",
+        "rev": "d6509b1644cd7f20cfc49d545842bc549209182e",
         "type": "github"
       },
       "original": {
@@ -116,15 +116,15 @@
     },
     "nixpkgs": {
       "locked": {
-        "lastModified": 1660162369,
-        "narHash": "sha256-pZukMP4zCA1FaBg0xHxf7KdE/Nv/C5YbDID7h2L8O7A=",
-        "owner": "nixos",
+        "lastModified": 1660305968,
+        "narHash": "sha256-r0X1pZCSEA6mzt5OuTA7nHuLmvnbkwgpFAh1iLIx4GU=",
+        "owner": "NixOS",
         "repo": "nixpkgs",
-        "rev": "3a11db5f408095b8f08b098ec2066947f4b72ce2",
+        "rev": "c4a0efdd5a728e20791b8d8d2f26f90ac228ee8d",
         "type": "github"
       },
       "original": {
-        "owner": "nixos",
+        "owner": "NixOS",
         "ref": "nixos-unstable",
         "repo": "nixpkgs",
         "type": "github"
