@@ -1,9 +1,10 @@
 #!/usr/bin/env sh
 
-script_dir=$(realpath $(dirname "$0"))
+#script_dir=$(realpath $(dirname "$0"))
+script_dir=$(dirname "$0")
 
 mkdir -p $script_dir/../client-archive
 cd $script_dir/../client-archive
 
-nix run ..#client-launcher
+nix --extra-experimental-features nix-command --extra-experimental-features flakes run ..#client-launcher
 
