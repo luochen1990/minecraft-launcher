@@ -7,7 +7,8 @@
     mc-config.inputs.flake-utils-plus.follows = "flake-utils-plus";
     mc-config.inputs.minecraft-nix.follows = "minecraft-nix";
     mc-config.inputs.minecraft-json.follows = "minecraft-json";
-    minecraft-nix.url = "github:ninlives/minecraft.nix";
+    #minecraft-nix.url = "github:ninlives/minecraft.nix";
+    minecraft-nix.url = "github:luochen1990/minecraft.nix/dev";
     minecraft-nix.inputs.nixpkgs.follows = "nixpkgs";
     minecraft-nix.inputs.flake-utils.follows = "flake-utils-plus/flake-utils";
     minecraft-nix.inputs.metadata.follows = "minecraft-json";
