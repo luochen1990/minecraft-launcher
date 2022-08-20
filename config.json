@@ -20,8 +20,6 @@
     ,{"url": "https://modrinth.com/mod/Phosphor", "desc": "光线性能优化"}
     ,{"url": "https://modrinth.com/mod/iris", "desc": "shaders"}
 
-    ,{"url": "https://modrinth.com/mod/unifiedmetrics", "desc": "服务器性能监控", "versionTypeRegex": "release|beta"}
-    ,{"url": "https://modrinth.com/mod/luckperms", "desc": "权限管理", "fakeGameVersion": "1.18"}
     ,{"url": "https://modrinth.com/mod/simpler-auth", "desc": "身份认证，提供注册和登录命令"}
 
     ,{"url": "https://modrinth.com/mod/modmenu", "desc": "增强菜单，查看装的MOD"}
@@ -41,17 +39,21 @@
     ,{"url": "https://modrinth.com/mod/essential-commands", "desc": "更多基础命令"}
     ,{"url": "https://modrinth.com/mod/lambdynamiclights", "desc": "火把辅助，移动发光"}
     ,{"url": "https://modrinth.com/mod/fallingtree", "desc": "砍树辅助"}
-    ,{"url": "https://www.curseforge.com/minecraft/mc-mods/Clumps", "desc": "把密集的经验球聚集到一起"}
-    ,{"url": "https://www.curseforge.com/minecraft/mc-mods/WorldEdit", "desc": "地图编辑器"}
 
-    ,{"url": "https://modrinth.com/mod/creeper-spores", "desc": "增强苦力怕, 小苦力怕"}
-    ,{"url": "https://modrinth.com/mod/minecraft-transit-railway", "desc": "火车扩展，支持车次规划"}
     ,{"url": "https://www.curseforge.com/minecraft/mc-mods/Croptopia", "desc": "更多农作物配方，以及附加以书籍形式提供的文档 (依赖patchouli)"}
-    ,{"url": "https://modrinth.com/mod/ae2", "desc": "增强关于能量使用的游戏机制"}
-    ,{"url": "https://modrinth.com/mod/ae2things", "desc": "更多AE2的机器", "versionTypeRegex": "release|beta"}
 
     ,{"url": "https://modrinth.com/mod/modern-industrialization", "desc": "现代工业，自动化"}
     ,{"url": "https://modrinth.com/mod/cc-restitched", "desc": "计算机 & 机器人"}
+  ],
+  "disabled_mods": [
+    {"url": "https://modrinth.com/mod/luckperms", "desc": "权限管理", "fakeGameVersion": "1.18"}
+    ,{"url": "https://modrinth.com/mod/unifiedmetrics", "desc": "服务器性能监控", "versionTypeRegex": "release|beta"}
+    ,{"url": "https://modrinth.com/mod/creeper-spores", "desc": "增强苦力怕, 小苦力怕"}
+    ,{"url": "https://modrinth.com/mod/minecraft-transit-railway", "desc": "火车扩展，支持车次规划"}
+    ,{"url": "https://www.curseforge.com/minecraft/mc-mods/Clumps", "desc": "把密集的经验球聚集到一起"}
+    ,{"url": "https://www.curseforge.com/minecraft/mc-mods/WorldEdit", "desc": "地图编辑器"}
+    ,{"url": "https://modrinth.com/mod/ae2", "desc": "增强关于能量使用的游戏机制"}
+    ,{"url": "https://modrinth.com/mod/ae2things", "desc": "更多AE2的机器", "versionTypeRegex": "release|beta"}
     ,{"url": "https://modrinth.com/mod/create-fabric", "desc": "更多合成公式, 建筑工具和艺术", "versionTypeRegex": "release|beta"}
     ,{"url": "https://www.curseforge.com/minecraft/mc-mods/createaddition", "desc": "Create的插件，提供了可以被CC控制的电动马达 https://github.com/mrh0/createaddition/blob/main/COMPUTERCRAFT.md, 以及变电站啊等等一大堆配方", "versionTypeRegex": "release|beta"}
   ]
