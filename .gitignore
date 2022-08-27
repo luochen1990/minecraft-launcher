@@ -12,21 +12,21 @@
 /*-archive/libraries/
 /*-archive/versions/
 
-# 忽略不明服务端文件
+# 忽略服务端文件
 /server-archive/*
 /server-archive/usercache.json
 /server-archive/ops.json
+/server-archive/whitelist.json
+/server-archive/banned-ips.json
+/server-archive/banned-players.json
 
 # 跟踪必要的服务端文件
 !/server-archive/world/
 !/server-archive/server.properties
-!/server-archive/whitelist.json
-!/server-archive/banned-ips.json
-!/server-archive/banned-players.json
 !/server-archive/config/
 !/server-archive/eula.txt
 
-# 忽略不明客户端文件
+# 忽略客户端文件
 /client-archive/*
 /client-archive/mods
 /client-archive/saves
