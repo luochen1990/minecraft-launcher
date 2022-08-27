@@ -1,0 +1,15 @@
+{
+  "modern_industrialization:guidebook": {
+    "criteria": {
+      "checkInv": "2022-08-27 14:08:56 +0800"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:birch_forest": "2022-08-27 14:08:56 +0800"
+    },
+    "done": false
+  },
+  "DataVersion": 2975
+}

@@ -1,0 +1,16 @@
+{
+  "modules": {
+    "megane-fabric-transfer": {
+      "lol.bai.megane.module.fabrictransfer.MeganeFabricTransfer": true
+    },
+    "modern_industrialization": {
+      "aztech.modern_industrialization.compat.megane.MIMeganeModule": true
+    },
+    "megane-reborn-energy": {
+      "lol.bai.megane.module.rebornenergy.MeganeRebornEnergy": true
+    },
+    "megane-vanilla": {
+      "lol.bai.megane.module.vanilla.MeganeVanilla": true
+    }
+  }
+}

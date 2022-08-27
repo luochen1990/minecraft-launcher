@@ -1,0 +1,18 @@
+{
+  "version": 7,
+  "language": "en_us",
+  "sessions-enabled": true,
+  "sessions-valid-hours": "6",
+  "username-regex": "^[A-z0-9_]{3,16}$",
+  "password-regex": "^.{6,}$",
+  "password-type": "local",
+  "global-password": "123456",
+  "forced-online-auth": false,
+  "optional-online-auth": true,
+  "require-auth-permission-level": 0,
+  "prevent-logging-another-location": true,
+  "hide-position": false,
+  "portal-teleport": true,
+  "optional-2fa": true,
+  "forced-offline-users": []
+}
