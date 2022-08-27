@@ -26,13 +26,13 @@
       "desc": "API, \u652f\u6301kotlin\u8bed\u8a00\u7684\u6269\u5c55",
       "name": "Fabric Language Kotlin",
       "modrinthId": "Ha28R6CL",
-      "version": "1.8.2+kotlin.1.7.10",
+      "version": "1.8.3+kotlin.1.7.10",
       "files": [
         {
-          "filename": "fabric-language-kotlin-1.8.2+kotlin.1.7.10.jar",
+          "filename": "fabric-language-kotlin-1.8.3+kotlin.1.7.10.jar",
           "file": {
-            "url": "https://cdn.modrinth.com/data/Ha28R6CL/versions/1.8.2+kotlin.1.7.10/fabric-language-kotlin-1.8.2%2Bkotlin.1.7.10.jar",
-            "sha512": "17a34331793f62eafa9988a5a95caf832b9b7f2d69397d286a6805250bb7d40401e19ef95e422342dc7a8943d944783127d1af57b1c192ad652dd33e82ad732e"
+            "url": "https://cdn.modrinth.com/data/Ha28R6CL/versions/MrMwCJlh/fabric-language-kotlin-1.8.3%2Bkotlin.1.7.10.jar",
+            "sha512": "4047cc345ec48e50e92a5844e4f7067ef4a537ce72cf0528057cd28b7fa31e538c003cc7e4d5bfe35a3b17704d1aac61fc6f9ad1b04dbf241ccaee4fcba785fe"
           }
         }
       ]
@@ -123,13 +123,13 @@
       "primaryFileOnly": true,
       "name": "Reese's Sodium Options",
       "modrinthId": "Bh37bMuy",
-      "version": "mc1.18.2-1.4.6",
+      "version": "mc1.18.2-1.4.7",
       "files": [
         {
-          "filename": "reeses_sodium_options-1.4.6+mc1.18.2-build.54.jar",
+          "filename": "reeses_sodium_options-1.4.7+mc1.18.2-build.58.jar",
           "file": {
-            "url": "https://cdn.modrinth.com/data/Bh37bMuy/versions/mc1.18.2-1.4.6/reeses_sodium_options-1.4.6%2Bmc1.18.2-build.54.jar",
-            "sha512": "2f7dedd6975688108f9ba9de86b80dd29d7ceba1997bc718ed6aae9f986add9a714421f028e92469f461907515b04258372cd3888470c3ef0a09ff7f8e805162"
+            "url": "https://cdn.modrinth.com/data/Bh37bMuy/versions/74LitD6T/reeses_sodium_options-1.4.7%2Bmc1.18.2-build.58.jar",
+            "sha512": "3dc566c43e2b35c53a0ce93c15082069704aca84993653f84c8a51a8df3e1c01d253efa9b46788220cebbaaba9f01686757718cdaa79cb2d5206bf8c3f14f7f4"
           }
         }
       ]
@@ -301,13 +301,13 @@
       "desc": "\u5c55\u793a\u7528\u6237\u773c\u524d\u7684\u65b9\u5757\u4fe1\u606f",
       "name": "WTHIT",
       "modrinthId": "6AQIaxuO",
-      "version": "fabric-4.13.2",
+      "version": "fabric-4.13.3",
       "files": [
         {
-          "filename": "wthit-fabric-4.13.2.jar",
+          "filename": "wthit-fabric-4.13.3.jar",
           "file": {
-            "url": "https://cdn.modrinth.com/data/6AQIaxuO/versions/7Vy9Amaj/wthit-fabric-4.13.2.jar",
-            "sha512": "8c7d74e8f866b737b08c81d55297baabbe2a1568f2f7ee08bfdae164ff5f07d3944ef0bf56077697e13349399103a246417388c1049f104abb60c94d46c587c2"
+            "url": "https://cdn.modrinth.com/data/6AQIaxuO/versions/Kmoi91KN/wthit-fabric-4.13.3.jar",
+            "sha512": "838903e794903fcc3a2fdb6f3b55eadad2c52e55af87cff953847d1e11d9d0618666d99ea01496f4d1bb612998c189b1fb97077f31bb8ee4440e9dc268cb694b"
           }
         }
       ]
@@ -350,13 +350,13 @@
       "versionTypeRegex": "release|beta",
       "name": "Xaero's Minimap",
       "curseForgeId": 263420,
-      "version": "v22.13.0 for Fabric 1.18.2",
+      "version": "v22.13.2 for Fabric 1.18.2",
       "files": [
         {
-          "filename": "Xaeros_Minimap_22.13.0_Fabric_1.18.2.jar",
+          "filename": "Xaeros_Minimap_22.13.2_Fabric_1.18.2.jar",
           "file": {
-            "url": "https://edge.forgecdn.net/files/3907/318/Xaeros_Minimap_22.13.0_Fabric_1.18.2.jar",
-            "sha1": "9f788941bc72d866a35f646d5faa4d157373d8d4"
+            "url": "https://edge.forgecdn.net/files/3937/633/Xaeros_Minimap_22.13.2_Fabric_1.18.2.jar",
+            "sha1": "a2927ef1dd79c9ba114b733a5342f8e54dd08622"
           }
         }
       ]
@@ -367,13 +367,13 @@
       "versionTypeRegex": "release|beta",
       "name": "Xaero's World Map",
       "curseForgeId": 317780,
-      "version": "v1.26.2 for Fabric 1.18.2",
+      "version": "v1.26.6 for Fabric 1.18.2",
       "files": [
         {
-          "filename": "XaerosWorldMap_1.26.2_Fabric_1.18.2.jar",
+          "filename": "XaerosWorldMap_1.26.6_Fabric_1.18.2.jar",
           "file": {
-            "url": "https://edge.forgecdn.net/files/3907/337/XaerosWorldMap_1.26.2_Fabric_1.18.2.jar",
-            "sha1": "2f3b68f0a86a330a5b84fb62b7cca58f66a3a8ea"
+            "url": "https://edge.forgecdn.net/files/3948/200/XaerosWorldMap_1.26.6_Fabric_1.18.2.jar",
+            "sha1": "79194b04c63f24863c8301c891ffddd8d4927e1a"
           }
         }
       ]
@@ -479,13 +479,13 @@
       "desc": "\u66f4\u591a\u519c\u4f5c\u7269\u914d\u65b9\uff0c\u4ee5\u53ca\u9644\u52a0\u4ee5\u4e66\u7c4d\u5f62\u5f0f\u63d0\u4f9b\u7684\u6587\u6863 (\u4f9d\u8d56patchouli)",
       "name": "Croptopia",
       "curseForgeId": 415438,
-      "version": "Croptopia-1.18.2-FABRIC-2.0.5.jar",
+      "version": "Croptopia-1.18.2-FABRIC-2.1.0.jar",
       "files": [
         {
-          "filename": "Croptopia-1.18.2-FABRIC-2.0.5.jar",
+          "filename": "Croptopia-1.18.2-FABRIC-2.1.0.jar",
           "file": {
-            "url": "https://edge.forgecdn.net/files/3820/867/Croptopia-1.18.2-FABRIC-2.0.5.jar",
-            "sha1": "9db22bb039a564069d2f5325e32257c53b92c7a5"
+            "url": "https://edge.forgecdn.net/files/3947/781/Croptopia-1.18.2-FABRIC-2.1.0.jar",
+            "sha1": "834c0642ad94df3e515b4288098f74e9b4b4c2c3"
           }
         }
       ]
