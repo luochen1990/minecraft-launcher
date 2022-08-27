@@ -1,0 +1,716 @@
+{
+  "minecraft:recipes/decorations/smoker": {
+    "criteria": {
+      "has_furnace": "2022-08-27 13:18:27 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/wooden_axe": {
+    "criteria": {
+      "has_stick": "2022-08-21 10:57:50 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/lever": {
+    "criteria": {
+      "has_cobblestone": "2022-08-21 11:06:41 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cobblestone_stairs_from_cobblestone_stonecutting": {
+    "criteria": {
+      "has_cobblestone": "2022-08-21 11:06:41 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/paper": {
+    "criteria": {
+      "has_reeds": "2022-08-21 11:02:52 +0800"
+    },
+    "done": true
+  },
+  "croptopia:recipes/campfire_toast": {
+    "criteria": {
+      "has_bread": "2022-08-21 10:57:54 +0800"
+    },
+    "done": true
+  },
+  "croptopia:recipes/fruit_smoothie": {
+    "criteria": {
+      "has_fruit": "2022-08-21 10:57:53 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_salmon_from_smoking": {
+    "criteria": {
+      "has_salmon": "2022-08-21 10:57:58 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/birch_pressure_plate": {
+    "criteria": {
+      "has_planks": "2022-08-21 11:04:12 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/crafting_table": {
+    "criteria": {
+      "has_planks": "2022-08-21 10:56:44 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/campfire": {
+    "criteria": {
+      "has_stick": "2022-08-21 10:57:50 +0800"
+    },
+    "done": true
+  },
+  "croptopia:recipes/shaped_tea": {
+    "criteria": {
+      "has_tea_seed": "2022-08-21 11:05:55 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/ladder": {
+    "criteria": {
+      "has_stick": "2022-08-21 10:57:50 +0800"
+    },
+    "done": true
+  },
+  "croptopia:recipes/documentation": {
+    "criteria": {
+      "has_crop": "2022-08-21 10:57:53 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dark_oak_slab": {
+    "criteria": {
+      "has_planks": "2022-08-27 12:59:06 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/chest": {
+    "criteria": {
+      "has_lots_of_items": "2022-08-21 10:57:58 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/birch_button": {
+    "criteria": {
+      "has_planks": "2022-08-21 11:04:12 +0800"
+    },
+    "done": true
+  },
+  "croptopia:recipes/croptopia.croptopia/blueberry_seed": {
+    "criteria": {
+      "has_blueberry": "2022-08-21 11:00:05 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/wooden_shovel": {
+    "criteria": {
+      "has_stick": "2022-08-21 10:57:50 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/torch": {
+    "criteria": {
+      "has_the_recipe": "2022-08-27 13:30:34 +0800"
+    },
+    "done": true
+  },
+  "croptopia:recipes/croptopia.croptopia/melon_juice": {
+    "criteria": {
+      "has_melon": "2022-08-21 11:16:17 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dark_oak_button": {
+    "criteria": {
+      "has_planks": "2022-08-27 12:59:06 +0800"
+    },
+    "done": true
+  },
+  "croptopia:gather_all": {
+    "criteria": {
+      "cantaloupe_seed": "2022-08-21 11:16:24 +0800",
+      "tea_seed": "2022-08-21 11:05:55 +0800",
+      "tomato_seed": "2022-08-21 11:00:50 +0800",
+      "tomatillo_seed": "2022-08-21 10:57:51 +0800",
+      "blueberry_seed": "2022-08-21 11:00:05 +0800",
+      "grape_seed": "2022-08-21 10:59:10 +0800",
+      "blackberry_seed": "2022-08-21 11:26:29 +0800"
+    },
+    "done": false
+  },
+  "minecraft:recipes/misc/stick": {
+    "criteria": {
+      "has_planks": "2022-08-21 10:56:44 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/spruce_boat": {
+    "criteria": {
+      "in_water": "2022-08-21 11:02:35 +0800"
+    },
+    "done": true
+  },
+  "croptopia:recipes/croptopia.croptopia/tomato_juice": {
+    "criteria": {
+      "has_tomato": "2022-08-21 11:00:50 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/wooden_sword": {
+    "criteria": {
+      "has_stick": "2022-08-21 10:57:50 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/stone_shovel": {
+    "criteria": {
+      "has_cobblestone": "2022-08-21 11:06:41 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dark_oak_planks": {
+    "criteria": {
+      "has_log": "2022-08-27 12:57:41 +0800"
+    },
+    "done": true
+  },
+  "croptopia:recipes/croptopia.croptopia/grape_jam": {
+    "criteria": {
+      "has_grape": "2022-08-21 10:59:10 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/sugar_from_sugar_cane": {
+    "criteria": {
+      "has_sugar_cane": "2022-08-21 11:02:52 +0800"
+    },
+    "done": true
+  },
+  "croptopia:recipes/croptopia.croptopia/toast_from_smoking_bread": {
+    "criteria": {
+      "has_bread": "2022-08-21 10:57:54 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dark_oak_door": {
+    "criteria": {
+      "has_planks": "2022-08-27 12:59:06 +0800"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/balanced_diet": {
+    "criteria": {
+      "apple": "2022-08-21 11:08:23 +0800",
+      "rotten_flesh": "2022-08-27 12:12:56 +0800"
+    },
+    "done": false
+  },
+  "minecraft:recipes/tools/wooden_hoe": {
+    "criteria": {
+      "has_stick": "2022-08-21 10:57:50 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cobblestone_slab": {
+    "criteria": {
+      "has_cobblestone": "2022-08-21 11:06:41 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/oak_pressure_plate": {
+    "criteria": {
+      "has_planks": "2022-08-21 10:56:44 +0800"
+    },
+    "done": true
+  },
+  "croptopia:recipes/cheeseburger": {
+    "criteria": {
+      "has_bread": "2022-08-21 10:57:54 +0800"
+    },
+    "done": true
+  },
+  "croptopia:recipes/croptopia.croptopia/molasses_from_smoking_sugar_cane": {
+    "criteria": {
+      "has_sugar_cane": "2022-08-21 11:02:52 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/bone_meal": {
+    "criteria": {
+      "has_bone": "2022-08-21 11:08:06 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/birch_planks": {
+    "criteria": {
+      "has_logs": "2022-08-21 10:57:46 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cobblestone_stairs": {
+    "criteria": {
+      "has_cobblestone": "2022-08-21 11:06:41 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/birch_slab": {
+    "criteria": {
+      "has_planks": "2022-08-21 11:04:12 +0800"
+    },
+    "done": true
+  },
+  "croptopia:recipes/veggie_salad": {
+    "criteria": {
+      "has_the_recipe": "2022-08-21 11:00:50 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_salmon": {
+    "criteria": {
+      "has_salmon": "2022-08-21 10:57:58 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/birch_fence_gate": {
+    "criteria": {
+      "has_planks": "2022-08-21 11:04:12 +0800"
+    },
+    "done": true
+  },
+  "minecraft:story/root": {
+    "criteria": {
+      "crafting_table": "2022-08-21 11:05:16 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/crossbow": {
+    "criteria": {
+      "has_stick": "2022-08-21 10:57:50 +0800"
+    },
+    "done": true
+  },
+  "croptopia:recipes/croptopia.croptopia/raisins_from_grape": {
+    "criteria": {
+      "has_grape": "2022-08-21 10:59:10 +0800"
+    },
+    "done": true
+  },
+  "croptopia:recipes/croptopia.croptopia/grape_seed": {
+    "criteria": {
+      "has_grape": "2022-08-21 10:59:10 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dark_oak_trapdoor": {
+    "criteria": {
+      "has_planks": "2022-08-27 12:59:06 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/oak_sign": {
+    "criteria": {
+      "has_planks": "2022-08-21 10:56:44 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/oak_trapdoor": {
+    "criteria": {
+      "has_planks": "2022-08-21 10:56:44 +0800"
+    },
+    "done": true
+  },
+  "croptopia:recipes/croptopia.croptopia/molasses_from_sugar_cane": {
+    "criteria": {
+      "has_sugar_cane": "2022-08-21 11:02:52 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/oak_fence_gate": {
+    "criteria": {
+      "has_planks": "2022-08-21 10:56:44 +0800"
+    },
+    "done": true
+  },
+  "croptopia:recipes/wine": {
+    "criteria": {
+      "has_grapes": "2022-08-21 10:59:10 +0800"
+    },
+    "done": true
+  },
+  "minecraft:adventure/kill_a_mob": {
+    "criteria": {
+      "minecraft:skeleton": "2022-08-21 11:08:05 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/oak_button": {
+    "criteria": {
+      "has_planks": "2022-08-21 10:56:44 +0800"
+    },
+    "done": true
+  },
+  "croptopia:recipes/croptopia.croptopia/grape_juice": {
+    "criteria": {
+      "has_grape": "2022-08-21 10:59:10 +0800"
+    },
+    "done": true
+  },
+  "minecraft:story/mine_stone": {
+    "criteria": {
+      "get_stone": "2022-08-21 11:06:41 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone": {
+    "criteria": {
+      "has_cobblestone": "2022-08-21 11:06:41 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dark_oak_pressure_plate": {
+    "criteria": {
+      "has_planks": "2022-08-27 12:59:06 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/furnace": {
+    "criteria": {
+      "has_cobblestone": "2022-08-21 11:06:41 +0800"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:birch_forest": "2022-08-21 10:56:03 +0800",
+      "minecraft:river": "2022-08-21 11:02:35 +0800",
+      "minecraft:old_growth_birch_forest": "2022-08-21 11:02:45 +0800"
+    },
+    "done": false
+  },
+  "croptopia:recipes/croptopia.croptopia/blueberry_jam": {
+    "criteria": {
+      "has_blueberry": "2022-08-21 11:00:05 +0800"
+    },
+    "done": true
+  },
+  "croptopia:recipes/croptopia.croptopia/tomato_seed": {
+    "criteria": {
+      "has_tomato": "2022-08-21 11:00:50 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/charcoal": {
+    "criteria": {
+      "has_log": "2022-08-21 10:57:46 +0800"
+    },
+    "done": true
+  },
+  "minecraft:adventure/sleep_in_bed": {
+    "criteria": {
+      "slept_in_bed": "2022-08-27 12:09:13 +0800"
+    },
+    "done": true
+  },
+  "croptopia:recipes/croptopia.croptopia/blackberry_seed": {
+    "criteria": {
+      "has_blackberry": "2022-08-21 11:26:29 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/wooden_pickaxe": {
+    "criteria": {
+      "has_stick": "2022-08-21 10:57:50 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cobblestone_slab_from_cobblestone_stonecutting": {
+    "criteria": {
+      "has_cobblestone": "2022-08-21 11:06:41 +0800"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/root": {
+    "criteria": {
+      "consumed_item": "2022-08-21 11:08:23 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/birch_boat": {
+    "criteria": {
+      "in_water": "2022-08-21 11:02:35 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/stone_sword": {
+    "criteria": {
+      "has_cobblestone": "2022-08-21 11:06:41 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/oak_stairs": {
+    "criteria": {
+      "has_planks": "2022-08-21 10:56:44 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/barrel": {
+    "criteria": {
+      "has_planks": "2022-08-21 10:56:44 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/cobblestone_wall": {
+    "criteria": {
+      "has_cobblestone": "2022-08-21 11:06:41 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/acacia_boat": {
+    "criteria": {
+      "in_water": "2022-08-21 11:02:35 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/stone_pickaxe": {
+    "criteria": {
+      "has_cobblestone": "2022-08-21 11:06:41 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/oak_door": {
+    "criteria": {
+      "has_planks": "2022-08-21 10:56:44 +0800"
+    },
+    "done": true
+  },
+  "croptopia:recipes/croptopia.croptopia/blackberry_jam": {
+    "criteria": {
+      "has_blackberry": "2022-08-21 11:26:29 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/birch_sign": {
+    "criteria": {
+      "has_planks": "2022-08-21 11:04:12 +0800"
+    },
+    "done": true
+  },
+  "croptopia:recipes/croptopia.croptopia/tea_seed": {
+    "criteria": {
+      "has_tea_leaves": "2022-08-21 11:05:55 +0800"
+    },
+    "done": true
+  },
+  "minecraft:adventure/root": {
+    "criteria": {
+      "killed_something": "2022-08-21 11:08:05 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/jungle_boat": {
+    "criteria": {
+      "in_water": "2022-08-21 11:02:35 +0800"
+    },
+    "done": true
+  },
+  "croptopia:recipes/campfire_molasses": {
+    "criteria": {
+      "has_sugar_cane": "2022-08-21 11:02:52 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_salmon_from_campfire_cooking": {
+    "criteria": {
+      "has_salmon": "2022-08-21 10:57:58 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/cobblestone_wall_from_cobblestone_stonecutting": {
+    "criteria": {
+      "has_cobblestone": "2022-08-21 11:06:41 +0800"
+    },
+    "done": true
+  },
+  "croptopia:recipes/croptopia.croptopia/apple_sapling": {
+    "criteria": {
+      "has_apple": "2022-08-21 10:57:53 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/birch_stairs": {
+    "criteria": {
+      "has_planks": "2022-08-21 11:04:12 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/stone_hoe": {
+    "criteria": {
+      "has_cobblestone": "2022-08-21 11:06:41 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/dark_oak_boat": {
+    "criteria": {
+      "in_water": "2022-08-21 11:02:35 +0800"
+    },
+    "done": true
+  },
+  "minecraft:adventure/kill_all_mobs": {
+    "criteria": {
+      "minecraft:skeleton": "2022-08-21 11:08:05 +0800",
+      "minecraft:spider": "2022-08-27 12:06:29 +0800",
+      "minecraft:zombie": "2022-08-21 11:37:52 +0800"
+    },
+    "done": false
+  },
+  "minecraft:recipes/building_blocks/dark_oak_stairs": {
+    "criteria": {
+      "has_planks": "2022-08-27 12:59:06 +0800"
+    },
+    "done": true
+  },
+  "croptopia:recipes/croptopia.croptopia/apple_juice": {
+    "criteria": {
+      "has_apple": "2022-08-21 10:57:53 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/birch_wood": {
+    "criteria": {
+      "has_log": "2022-08-21 10:57:46 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/birch_trapdoor": {
+    "criteria": {
+      "has_planks": "2022-08-21 11:04:12 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/dark_oak_sign": {
+    "criteria": {
+      "has_planks": "2022-08-27 12:59:06 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dark_oak_fence_gate": {
+    "criteria": {
+      "has_planks": "2022-08-27 12:59:06 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/birch_door": {
+    "criteria": {
+      "has_planks": "2022-08-21 11:04:12 +0800"
+    },
+    "done": true
+  },
+  "croptopia:recipes/croptopia.croptopia/toast_from_bread": {
+    "criteria": {
+      "has_bread": "2022-08-21 10:57:54 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/dark_oak_fence": {
+    "criteria": {
+      "has_planks": "2022-08-27 12:59:06 +0800"
+    },
+    "done": true
+  },
+  "croptopia:getseeds": {
+    "criteria": {
+      "has_seeds": "2022-08-21 10:57:51 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/oak_fence": {
+    "criteria": {
+      "has_planks": "2022-08-21 10:56:44 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/soul_campfire": {
+    "criteria": {
+      "has_stick": "2022-08-21 10:57:50 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/oak_boat": {
+    "criteria": {
+      "in_water": "2022-08-21 11:02:35 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/stone_axe": {
+    "criteria": {
+      "has_cobblestone": "2022-08-21 11:06:41 +0800"
+    },
+    "done": true
+  },
+  "croptopia:gather_forest": {
+    "criteria": {
+      "tomatillo_seed": "2022-08-21 10:57:51 +0800",
+      "blackberry_seed": "2022-08-21 11:26:29 +0800",
+      "cantaloupe_seed": "2022-08-21 11:16:24 +0800",
+      "tea_seed": "2022-08-21 11:05:55 +0800",
+      "blueberry_seed": "2022-08-21 11:00:05 +0800",
+      "tomato_seed": "2022-08-21 11:00:50 +0800",
+      "grape_seed": "2022-08-21 10:59:10 +0800"
+    },
+    "done": false
+  },
+  "minecraft:recipes/decorations/birch_fence": {
+    "criteria": {
+      "has_planks": "2022-08-21 11:04:12 +0800"
+    },
+    "done": true
+  },
+  "modern_industrialization:guidebook": {
+    "criteria": {
+      "checkInv": "2022-08-21 10:56:03 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/oak_slab": {
+    "criteria": {
+      "has_planks": "2022-08-21 10:56:44 +0800"
+    },
+    "done": true
+  },
+  "croptopia:recipes/croptopia.croptopia/cantaloupe_seed": {
+    "criteria": {
+      "has_cantaloupe": "2022-08-21 11:16:17 +0800"
+    },
+    "done": true
+  },
+  "croptopia:recipes/fruit_salad": {
+    "criteria": {
+      "has_apple": "2022-08-21 10:57:53 +0800"
+    },
+    "done": true
+  },
+  "croptopia:recipes/croptopia.croptopia/raisins_from_smoking_grape": {
+    "criteria": {
+      "has_grape": "2022-08-21 10:59:10 +0800"
+    },
+    "done": true
+  },
+  "croptopia:recipes/croptopia.croptopia/apple_pie": {
+    "criteria": {
+      "has_apple": "2022-08-21 10:57:53 +0800"
+    },
+    "done": true
+  },
+  "croptopia:recipes/campfire_raisins": {
+    "criteria": {
+      "has_grapes": "2022-08-21 10:59:10 +0800"
+    },
+    "done": true
+  },
+  "DataVersion": 2975
+}
