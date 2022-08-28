@@ -1,1 +1,20 @@
-["luochen1990", "lc", "max"]
+[
+  {
+    "uuid": "0af4a8ed-17a6-3430-a78c-b458862e3261",
+    "name": "max",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  },
+  {
+    "uuid": "3bba47cf-06b6-3bb7-84f4-c48d06cc56c6",
+    "name": "lc",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  },
+  {
+    "uuid": "39c0b261-e0a0-34b7-a0b4-706585310eb6",
+    "name": "luochen1990",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  }
+]

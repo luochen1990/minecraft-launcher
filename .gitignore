@@ -24,10 +24,9 @@
 /server-archive/banned-players.json
 
 # 跟踪必要的服务端文件
-!/server-archive/world/
 !/server-archive/server.properties
+!/server-archive/world/
 !/server-archive/config/
-!/server-archive/eula.txt
 
 # 忽略客户端文件
 /client-archive/*
