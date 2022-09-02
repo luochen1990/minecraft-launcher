@@ -140,13 +140,13 @@
       "primaryFileOnly": true,
       "name": "Sodium Extra",
       "modrinthId": "PtjYWJkn",
-      "version": "mc1.18.2-0.4.8",
+      "version": "mc1.18.2-0.4.10",
       "files": [
         {
-          "filename": "sodium-extra-0.4.8+mc1.18.2-build.56.jar",
+          "filename": "sodium-extra-0.4.10+mc1.18.2-build.63.jar",
           "file": {
-            "url": "https://cdn.modrinth.com/data/PtjYWJkn/versions/Epqrq6OM/sodium-extra-0.4.8%2Bmc1.18.2-build.56.jar",
-            "sha512": "8b07b71101184634e80f1460264b935c382cb3849be91ada225aa5825afa2e841351c7abc8ea21e7ecef2394a8e34d7a0e75149568a5ea0ed14ffbd0e7578244"
+            "url": "https://cdn.modrinth.com/data/PtjYWJkn/versions/uCddykP4/sodium-extra-0.4.10%2Bmc1.18.2-build.63.jar",
+            "sha512": "584686aca37d46ca81288b3013e779a3f20d0245846087ea8aa8b44fcf4ed620b35dd5ce7c31c637943a21f1cd1ab4345d1a344f0addeb797e0c49c0b4da8f50"
           }
         }
       ]
@@ -204,13 +204,13 @@
       "desc": "shaders",
       "name": "Iris Shaders",
       "modrinthId": "YL57xq9U",
-      "version": "1.18.x-v1.2.6",
+      "version": "1.18.x-v1.2.7",
       "files": [
         {
-          "filename": "iris-mc1.18.2-1.2.6.jar",
+          "filename": "iris-mc1.18.2-1.2.7.jar",
           "file": {
-            "url": "https://cdn.modrinth.com/data/YL57xq9U/versions/1.18.x-v1.2.6/iris-mc1.18.2-1.2.6.jar",
-            "sha512": "50ce69ece18ff95cd2586b643e51ddca41da579cd405b684dfdec4b20b7287c8002bf6367ff23e3e8570efa348e05093a47450e26517ef9b81529c39de04302e"
+            "url": "https://cdn.modrinth.com/data/YL57xq9U/versions/SEOrgwmF/iris-mc1.18.2-1.2.7.jar",
+            "sha512": "608d4d2e537a89ec2091e1f7effd2a2fa069f1bba37322c351a0dc10fdc726e282084dba520e96f15e63336f6e987f55cbc3f6c6e2ee543ac11369697c9e45bf"
           }
         }
       ]
@@ -333,13 +333,13 @@
       "desc": " WTHIT\u7684\u63d2\u4ef6\uff0c\u5c55\u793a \u80fd\u91cf\uff0c\u6db2\u4f53\u5bb9\u91cf\uff0c\u7bb1\u5b50\u5185\u7269\u54c1 \u7b49\u66f4\u591a\u4fe1\u606f",
       "name": "megane",
       "curseForgeId": 408118,
-      "version": "[1.18.2] 7.8.0",
+      "version": "[1.18.2] 7.9.0",
       "files": [
         {
-          "filename": "megane-7.8.0.jar",
+          "filename": "megane-7.9.0.jar",
           "file": {
-            "url": "https://edge.forgecdn.net/files/3881/951/megane-7.8.0.jar",
-            "sha1": "1f61e961b030ec117258c16ea83020bb3118cc61"
+            "url": "https://edge.forgecdn.net/files/3961/772/megane-7.9.0.jar",
+            "sha1": "5341e7c86c543553000b7e464d78c9817e82c200"
           }
         }
       ]
