@@ -49,17 +49,16 @@
         ]
       },
       "locked": {
-        "lastModified": 1660447429,
-        "narHash": "sha256-oTMv1INeDaqStfTIj7rEGbUxNl3GCJJtz9cSt3FWLsQ=",
-        "owner": "luochen1990",
-        "repo": "minecraft-mods",
-        "rev": "d6509b1644cd7f20cfc49d545842bc549209182e",
+        "lastModified": 1673744075,
+        "narHash": "sha256-tFo+04oprjuv/mJed7IxQxLib4cWGDlutE+cHOuKcx4=",
+        "owner": "linyinfeng",
+        "repo": "mc-config",
+        "rev": "529edd6086badf69364904187655779826a13b23",
         "type": "github"
       },
       "original": {
-        "owner": "luochen1990",
-        "ref": "dev",
-        "repo": "minecraft-mods",
+        "owner": "linyinfeng",
+        "repo": "mc-config",
         "type": "github"
       }
     },
