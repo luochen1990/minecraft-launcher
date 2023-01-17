@@ -35,3 +35,8 @@ vi config.json
 
 找到想要添加的 Mod 后，将其 URL 添加到 `config.json`, 然后运行 `update-mods` 即可.
 
+问题排查
+--------
+
+1. 如果遇到无法登录，可以尝试删除 `~/.local/share/minecraft.nix/profile.json` 文件后重试.
+
